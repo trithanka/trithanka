@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @trithanka
-- 👀 I’m interested in ...web development and python programming
+- 👀 I’m interested in ... Web development ,MERN Stack
 - 🌱 I’m currently learning ...DSA
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
