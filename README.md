@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Node.js backend development and full-stack web apps.  <br>👯 I’m looking to collaborate on open-source backend projects, especially in Express, NestJS, or MySQL  <br>🤝 I’m looking for help with scaling Node.js applications and optimizing complex queries  <br>🌱 I’m currently learning advanced DevOps practices and exploring message queues like RabbitMQ and Redis  <br>💬 Ask me about backend design patterns, API security, and integration with third-party services like Zoom  <br>⚡ Fun fact: I enjoy solving tricky bugs late at night more than coffee in the morning ☕  <br>
+🔭 I’m currently working on Node.js backend development and full-stack web apps.  <br>👯 I’m looking to collaborate on open-source backend projects, especially in Express, NestJS,Hono or MySQL  <br>🤝 I’m looking for help with scaling Node.js applications and optimizing complex queries  <br>🌱 I’m currently learning advanced DevOps practices and exploring message queues like RabbitMQ and Redis  <br>💬 Ask me about backend design patterns, API security, and integration with third-party services like Zoom  <br>⚡ Fun fact: I enjoy solving tricky bugs late at night more than coffee in the morning ☕  <br>
 
 
 ## 🌐 Socials:
