@@ -1,24 +1,285 @@
-# 💫 About Me:
-🔭 I’m currently working on Node.js backend development and full-stack web apps.  <br>👯 I’m looking to collaborate on open-source backend projects, especially in Express, NestJS,Hono or MySQL.<br>🤝 I’m looking for help with scaling Node.js applications and optimizing complex queries  <br>🌱 I’m currently learning advanced DevOps practices and exploring message queues like RabbitMQ and Redis  <br>💬 Ask me about backend design patterns, API security, and integration with third-party services like Zoom  <br>⚡ Fun fact: I enjoy solving tricky bugs late at night more than coffee in the morning ☕  <br>
+<!-- ====================================================================== -->
+<!--                         HEADER / HERO BANNER                           -->
+<!-- ====================================================================== -->
 
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=220&section=header&text=Trithanka%20Baruah&fontSize=50&fontColor=ffffff&fontAlignY=34&desc=CTO%20%40%20Repyar%20%E2%80%A2%20Technology%20Leadership%20%E2%80%A2%20Platform%20Architecture&animation=twinkle" alt="header" />
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/trithanka.baruah) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_tr1tha___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trithanka/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trithanka.dev@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=trithanka&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com?user=trithanka&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=trithanka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/trithanka">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=640&lines=Building+scalable+backend+systems;Powering+government-scale+platforms;Distributed+%26+event-driven+architecture;Node.js+%E2%80%A2+Go+%E2%80%A2+Bun+%E2%80%A2+Hono+%E2%80%A2+Cloud" alt="Typing SVG" />
+</a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=trithanka&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="https://linkedin.com/in/trithanka" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:trithanka.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://trithanka.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://github.com/trithanka" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=trithanka&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/trithanka?label=Followers&style=flat-square&color=0e75b6&logo=github" alt="Followers" />
 
----
-[![](https://visitcount.itsvg.in/api?id=trithanka&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- ====================================================================== -->
+<!--                              ABOUT ME                                  -->
+<!-- ====================================================================== -->
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+> *> CTO from India 🇮🇳 — leading technology strategy, engineering execution, and large-scale digital transformation initiatives.*
+
+```ts
+const trithanka: ChiefTechnologyOfficer = {
+  company:       "Repyar",
+  strategy:      ["Engineering Execution", "Technical Vision", "Digital Transformation"],
+  leadership:    ["Team Scaling", "Agile Mentorship", "Cross-Functional Alignment"],
+  architecture:  ["High-Availability", "Event-Driven", "Government-Scale Platforms"],
+  impactMetrics: {
+    availability: "99.99% Uptime",
+    concurrency:  "10,000+ Baseline Simultaneous Sessions",
+    deployment:   "Zero-Downtime CI/CD Pipelines"
+  },
+  philosophy:    "Aligning technical execution with aggressive business milestones."
+};;
+```
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<div align="center">
+
+#### 🚀 Currently Focused On
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech%20Strategy%20%40%20Repyar-0e75b6?style=flat-square&logo=rocket&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Population--Scale%20Government%20Platforms-0e75b6?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Observability%20%26%20SLA%20Governance-0e75b6?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Governance%20%26%20Cost%20Optimization%20(AWS)-0e75b6?style=flat-square&logo=amazonwebservices&logoColor=white" />
+
+</p>
+
+</td>
+<td valign="top" width="50%">
+
+<div align="center">
+
+#### 🌟 Featured Interests
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Distributed%20Systems-6f42c1?style=flat-square&logo=apachehadoop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Event--Driven%20Architecture-6f42c1?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Performance%20%26%20Schema%20Optimization-6f42c1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20Apps%20(Langchain%20%2F%20Langgraph)-6f42c1?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Developer%20Tooling-6f42c1?style=flat-square&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zero--Downtime%20Deployments-6f42c1?style=flat-square&logo=nginx&logoColor=white" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- ====================================================================== -->
+<!--                          FEATURED PROJECT                              -->
+<!-- ====================================================================== -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Project
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 🛰️ National Talent Deployment & Public Sector Employment Ecosystem
+
+A full-stack **State Job Mela portal** — real-time registration, employer–candidate matching, and end-to-end event coordination, built to scale for government recruitment drives.
+
+- 👥 Handles **10,000+ concurrent users** with secure OTP-based login
+- 🏢 Dedicated **company login** + admin reporting modules
+- 🔎 Dynamic **job filtering**, applicant tracking & role-based dashboards
+- ⚙️ Built on **Node.js + MySQL** for high availability
+
+</td>
+<td width="40%" valign="top">
+
+<br/>
+
+<a href="https://github.com/trithanka">
+  <img src="https://img.shields.io/badge/Status-In%20Production-2ea043?style=for-the-badge" alt="status" />
+</a>
+<br/><br/>
+
+`Node.js` · `Express` · `MySQL`
+`React` · `NGINX` · `PM2`
+
+</td>
+</tr>
+</table>
+
+### 📦 Published NPM Packages
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[`api-response-wrapper`](https://www.npmjs.com/package/api-response-wrapper)**
+
+A standardized format for API responses in Node.js — clean success/error handling and metadata inclusion.
+
+<img src="https://img.shields.io/badge/500%2B%20weekly%20downloads-CB3837?style=flat-square&logo=npm&logoColor=white" />
+
+</td>
+<td width="50%" valign="top">
+
+**[`sql-builder`](https://www.npmjs.com/package/sql-builder)**
+
+An adapter-based SQL query builder (MySQL, SQLite) with chainable `SELECT` / `INSERT` / `UPDATE` / `DELETE` methods.
+
+<img src="https://img.shields.io/badge/600%2B%20weekly%20downloads-CB3837?style=flat-square&logo=npm&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🗂️ &nbsp;More notable work (click to expand)</b></summary>
+<br/>
+
+- **NCRP — National Candidate Registration Portal** · Unified backend for nationwide registration under the Skill Development Mission, with a fuzzy-matching identity-resolution engine across Aadhaar / phone / email and UIDAI / e-Pramaan API integration.
+- **HRMS — Government HR Management System** · Enterprise-grade platform with lifecycle tracking, automated leave approvals, payroll provisioning, audit logging, hierarchical access control, and biometric / attendance sync via cron-driven processing.
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- ====================================================================== -->
+<!--                              TECH STACK                                -->
+<!-- ====================================================================== -->
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> Tech Stack
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,go,python,react&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,rabbitmq,bun&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,grafana,prometheus,git&theme=dark" />
+</a>
+
+</div>
+
+<details>
+<summary><b>📂 &nbsp;Full stack, grouped (click to expand)</b></summary>
+<br/>
+
+<div align="center">
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Backend & Frameworks**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**AI / LLM**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- ====================================================================== -->
+<!--                              GITHUB STATS                              -->
+<!-- ====================================================================== -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=trithanka&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+### 📈 Contribution Graph
+
+<div align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=trithanka&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- ====================================================================== -->
+<!--                          QUOTE + FOOTER                                -->
+<!-- ====================================================================== -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Dev Quote
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💡 *"Engineering scalable, high-availability backends — one zero-downtime deploy at a time."*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:0e75b6&height=120&section=footer" alt="footer" />
+
+<div align="center">
+
+⭐️ From [Trithanka](https://github.com/trithanka) — thanks for stopping by!
+
+</div>
