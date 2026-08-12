@@ -246,7 +246,16 @@ An adapter-based SQL query builder (MySQL, SQLite) with chainable `SELECT` / `IN
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=trithanka&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=trithanka&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&title_color=0e75b6&icon_color=6f42c1" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trithanka&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=0e75b6" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=trithanka&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
